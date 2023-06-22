@@ -1,2 +1,2 @@
 # cobol2csharp
-generate charp class from cobol structure
+generate c# class from cobol structure
